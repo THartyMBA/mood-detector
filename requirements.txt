@@ -5,3 +5,5 @@ pandas
 fer
 mtcnn
 tensorflow        # required by fer/mtcnn
+opencv-python-headless
+
