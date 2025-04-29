@@ -1,0 +1,7 @@
+streamlit>=1.32
+pillow
+numpy
+pandas
+fer
+mtcnn
+tensorflow        # required by fer/mtcnn
